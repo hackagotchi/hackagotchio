@@ -48,4 +48,4 @@ export async function getStaticProps(req) {
 
 const dev = process.env.NODE_ENV !== 'production';
 
-export const server = dev ? 'http://localhost:2360' : 'https://your_deployment.server.com';
+export const server = dev ? 'http://localhost:2360' : 'https://hackagotchio-3b31ztxyg.now.sh';
