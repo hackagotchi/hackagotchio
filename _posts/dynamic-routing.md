@@ -8,6 +8,9 @@ author:
   picture: '/assets/blog/authors/rishi.jpeg'
 ogImage:
   url: '/assets/blog/dynamic-routing/cover.jpg'
+categories:
+  - 'aefawewef'
+  - 'awefnawe'
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus. Praesent elementum facilisis leo vel fringilla. Congue mauris rhoncus aenean vel. Egestas sed tempus urna et pharetra pharetra massa massa ultricies.
@@ -20,4 +23,8 @@ Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris v
 
 ```latex
 x=\frac{ -b\pm\sqrt{ b^2-4ac } } {2a}
+```
+
+```javascript
+let x = "hi"
 ```
