@@ -1,4 +1,4 @@
-import { getPostBySlug } from '../util'
+import { getPostBySlug } from '../api'
 
 export default (req, res) => {
 

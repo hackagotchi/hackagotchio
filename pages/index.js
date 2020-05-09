@@ -7,14 +7,26 @@ import Head from 'next/head'
 import { CMS_NAME } from '../lib/constants'
 import fetch from 'isomorphic-unfetch';
 
+function compare( a, b ) {
+  if ( Date.parse(a.date) < Date.parse(b.date) ){
+    return 1;
+  }
+  if ( Date.parse(a.date) > Date.parse(b.date) ){
+    return -1;
+  }
+  return 0;
+}
+
 export default function Index({ allPosts }) {
-  const heroPost = allPosts[0]
-  const morePosts = allPosts.slice(1)
+  const postsSorted = allPosts.sort(compare)
+  console.log(postsSorted)
+  const heroPost = postsSorted[0]
+  const morePosts = postsSorted.slice(1)
   return (
     <>
       <Layout>
         <Head>
-          <title>Next.js Blog Example with {CMS_NAME}</title>
+          <title>MLNMA</title>
         </Head>
           <Container>
             <Intro />
@@ -37,13 +49,11 @@ export default function Index({ allPosts }) {
 
 export async function getStaticProps(req) {
 
-  const allPosts = await fetch( `${server}/api/allPosts`).then(e => e.json())
+  const { getAllPosts } = require('./api/api')
+
+  const allPosts = await getAllPosts(["title","date","slug","author","content","ogImage","coverImage", "excerpt"])
 
   return {
         props: { allPosts },
   }
 }
-
-const dev = process.env.NODE_ENV !== 'production';
-
-export const server = dev ? 'http://localhost:2360' : 'https://hackagotchio-3b31ztxyg.now.sh';

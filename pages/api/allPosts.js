@@ -1,5 +1,5 @@
 import fs from 'fs'
-import { getAllPosts } from './util'
+import { getAllPosts } from './api'
 
 export default (req, res) => {
     res.statusCode = 200
