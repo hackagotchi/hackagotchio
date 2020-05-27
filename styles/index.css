@@ -21,7 +21,7 @@ html, body, .container {
 
 @media (prefers-color-scheme:dark) {
     body {
-        background: #000;
-        color: #FFF;
+        background: #0987A0;
+        color: #C4F1F9;
     }
 }
