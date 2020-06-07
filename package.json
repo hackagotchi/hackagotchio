@@ -19,11 +19,15 @@
     "markdown-it": "^10.0.0",
     "next": "latest",
     "next-page-transitions": "^1.0.0-beta.2",
+    "particles-bg": "^2.5.0",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
     "react-ga": "^2.7.0",
     "react-icons": "^3.10.0",
+    "react-instagram-embed": "^1.5.0",
     "react-media": "^1.10.0",
+    "react-palette": "^1.0.2",
+    "react-particles-js": "^3.2.1",
     "rehype-katex": "^3.0.0",
     "remark": "11.0.2",
     "remark-html": "10.0.0",
@@ -34,6 +38,7 @@
     "showdown-highlightjs-extension": "^0.1.2",
     "showdown-katex": "^0.8.0",
     "showdown-toc": "^1.0.1",
+    "styled-jsx": "^3.3.0",
     "unfetch": "^4.1.0"
   },
   "devDependencies": {
