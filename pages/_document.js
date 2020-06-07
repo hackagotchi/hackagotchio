@@ -21,7 +21,7 @@ export default class MyDocument extends Document {
             }
           </Media>
           <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/10.0.2/highlight.min.js"></script>
-          <meta name="title" content="MLNMA"/>
+          {/* <meta name="title" content="MLNMA"/>
 <meta name="description" content="A notebook, blog, and little course about Machine Learning, without the abstractness."/>
 <meta name="keywords" content="Machine Learning, machine learning, artificial intelligence, mathematics, javascript, rust, python, numpy, tensorflow, keras, nextjs, web development"/>
 <meta name="robots" content="index, follow"/>
@@ -40,7 +40,7 @@ export default class MyDocument extends Document {
 <meta property="twitter:url" content="https://mlnma.now.sh/"/>
 <meta property="twitter:title" content="MLNMA"/>
 <meta property="twitter:description" content="A course, notebook, and blog about Machine Learning, Web Development, and Math without the abstractness.."/>
-<meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"></meta>
+<meta property="twitter:image" content="https://metatags.io/assets/meta-tags-16a33a6a8531e519cc0936fbba0ad904e52d35f34a46c97a2c9f6f7dd7d336f2.png"></meta> */}
 
         </Head>
         <body>
