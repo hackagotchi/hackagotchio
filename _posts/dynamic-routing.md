@@ -1,13 +1,13 @@
 ---
-title: 'Dynamic Routing and Static Generation'
+title: 'Hello World!'
 excerpt: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Praesent elementum facilisis leo vel fringilla est ullamcorper eget. At imperdiet dui accumsan sit amet nulla facilisi morbi tempus.'
-coverImage: '/assets/blog/dynamic-routing/cover.jpg'
+coverImage: 'https://source.unsplash.com/2400x1500/?nature,water'
 date: '2020-03-16T05:35:07.322Z'
 author:
-  name: Rishi Kothari
-  picture: '/assets/blog/authors/rishi.jpeg'
+  name: Cedric Hootchinks
+  picture: '/assets/blog/authors/cedric.png'
 ogImage:
-  url: '/assets/blog/dynamic-routing/cover.jpg'
+  url: 'https://source.unsplash.com/2400x1500/?nature,water'
 categories:
   - 'aefawewef'
   - 'awefnawe'
@@ -20,12 +20,4 @@ Venenatis cras sed felis eget velit. Consectetur libero id faucibus nisl tincidu
 
 ## Lorem Ipsum
 
-Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate. ~\int^{\infty}~
-
-```latex
-x=\frac{ -b\pm\sqrt{ b^2-4ac } } {2a}
-```
-
-```javascript
-let x = "hi"
-```
+Tristique senectus et netus et malesuada fames ac turpis. Ridiculus mus mauris vitae ultricies leo integer malesuada nunc vel. In mollis nunc sed id semper. Egestas tellus rutrum tellus pellentesque. Phasellus vestibulum lorem sed risus ultricies tristique nulla. Quis blandit turpis cursus in hac habitasse platea dictumst quisque. Eros donec ac odio tempor orci dapibus ultrices. Aliquam sem et tortor consequat id porta nibh. Adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla. Diam vulputate ut pharetra sit amet. Ut tellus elementum sagittis vitae et leo. Arcu non odio euismod lacinia at quis risus sed vulputate.
