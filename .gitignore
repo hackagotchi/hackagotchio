@@ -13,3 +13,4 @@ yarn-error.log*
 .now
 
 .DS_Store
+.vercel
