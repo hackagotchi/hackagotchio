@@ -30,7 +30,7 @@ This week, the three questions were:
 
 ### What's everyone working on?
 
-We had some really interesting answers across the board! Let's start off with Cedric. He's working on the graphical client for Hackagotchi along with Jacob and Richard (they're working on the art and config files for the entire project), and there have been some cool developments. One of the issues that they've been facing is displaying a hackstead in a non-cluttered way. Currently, the best way to do it is by using a hexagonal pattern (take a look at honeycombs! They're incredibly space-efficient), and Cedric's working on making it a little bit simpler. 
+We had some really interesting answers across the board! Let's start off with Cedric. They're working on the graphical client for Hackagotchi along with Jacob and Richard (they're working on the art and config files for the entire project), and there have been some cool developments. One of the issues that they've been facing is displaying a hackstead in a non-cluttered way. Currently, the best way to do it is by using a hexagonal pattern (take a look at honeycombs! They're incredibly space-efficient), and Cedric's working on making it a little bit simpler. 
 
 ![](https://images.unsplash.com/photo-1573147367786-a5a227916f0c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=900&q=60)
 
@@ -38,7 +38,7 @@ Jacob's also working on a lot of the newer potion mechanics for the next update,
 
 ![](https://images.unsplash.com/photo-1568060991870-4939f10d4edd?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2550&q=80)
 
-And of course, we can't miss out on the newest dev member: Owen Salter (also known as muirrum)! He's working on the backend API for use in all the frontend clients across the board, from the Slack, to the standalone Web frontend, and even the downloadable Rust one!
+And of course, we can't miss out on the newest dev member: Owen Salter (also known as muirrum)! They're working on the backend API for use in all the frontend clients across the board, from the Slack, to the standalone Web frontend, and even the downloadable Rust one!
 
 ---
 
