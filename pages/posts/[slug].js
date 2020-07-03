@@ -312,6 +312,9 @@ const showdownHighlight = require("showdown-highlight")
 
 export default function Post({ post, morePosts, preview, slugs, posts }) {
   const { data, loading, err } = usePalette(post.coverImage);
+
+  console.log(post.coverImage)
+
   console.log(data.darkMuted)
   console.log(post)
   const router = useRouter()
