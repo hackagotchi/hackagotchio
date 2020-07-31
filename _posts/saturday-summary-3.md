@@ -5,7 +5,7 @@ coverImage: 'http://source.unsplash.com/OgEAh3TcOFw/1000x1000'
 date: '2020-07-27T05:35:07.322Z'
 author:
   name: Owen Salter
-  picture: '/assets/blog/authors/rishi.jpeg'
+  picture: '/assets/blog/authors/owen.png'
 ogImage:
   url: 'http://source.unsplash.com/OgEAh3TcOFw/1000x1000'
 emoji: '🎨'
