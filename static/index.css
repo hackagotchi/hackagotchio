@@ -1,0 +1,27 @@
+/* purgecss start ignore */
+@tailwind base;
+@tailwind components;
+/* purgecss end ignore */
+@tailwind utilities;
+
+.katex {
+    text-align: center;
+}
+
+* {
+    transition: all 0.25s ease-in-out;
+}
+
+a {
+    cursor: pointer;
+}
+html, body, .container {
+    scroll-behavior: smooth;
+  }
+
+@media (prefers-color-scheme:dark) {
+    body {
+        background: #0987A0;
+        color: #C4F1F9;
+    }
+}
