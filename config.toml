@@ -3,3 +3,11 @@ languageCode = "en-us"
 title = "My New Hugo Site"
 
 theme = "gotchi"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+
