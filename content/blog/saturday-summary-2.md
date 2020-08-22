@@ -3,9 +3,7 @@ title: 'Saturday Summary #2'
 excerpt: "Wildcards, Owen, Poly, and more!"
 coverImage: 'http://source.unsplash.com/OgEAh3TcOFw/1000x1000'
 date: '2020-07-04T05:35:07.322Z'
-author:
-  name: Rishi Kothari
-  picture: '/assets/blog/authors/rishi.jpeg'
+author: Rishi Kothari
 ogImage:
   url: 'http://source.unsplash.com/OgEAh3TcOFw/1000x1000'
 emoji: '🎨'

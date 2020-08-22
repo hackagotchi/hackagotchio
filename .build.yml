@@ -1,12 +1,12 @@
 image: alpine/edge
 packages:
-  - go
+
   - hugo
   - rsync
 sources:
   - https://github.com/Hackagotchi/hackagotchio.git
 environment:
-  kronos: deploy@kronos.devosmium.xyz
+  kronos: ubuntu@irc.hackagotch.io
   # linode_instance: root@
 secrets:
   - a88c3ffc-9bb0-451e-bf59-ef6198da6754
@@ -15,7 +15,7 @@ tasks:
   - build: |
       cd hackagotchio
       hugo
-      #  - deploy: |
-      #cd devosmium.xyz
-      #rsync --delete -avz --exclude ".well-known" -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" public/ $kronos:/var/www/devosmium.xyz
+  - deploy: |
+      cd hackagotchio
+      rsync --delete -avz --exclude ".well-known" -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" public/ $prod:/var/www/hackagotch.io
       # rsync --delete -avz -e "ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null" public/ $ec2_box:/var/www/tristan.partin.io
