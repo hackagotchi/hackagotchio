@@ -1,14 +1,10 @@
 ---
 title: 'Saturday Summary #3'
 excerpt: "Wildcards, Owen, Poly, and more!"
-coverImage: 'http://source.unsplash.com/OgEAh3TcOFw/1000x1000'
 date: '2020-07-27T05:35:07.322Z'
-author:
-  name: Owen Salter
-  picture: '/assets/blog/authors/owen.png'
+author: Owen Salter
 ogImage:
   url: 'http://source.unsplash.com/OgEAh3TcOFw/1000x1000'
-emoji: '🎨'
 ---
 
 [toc]
