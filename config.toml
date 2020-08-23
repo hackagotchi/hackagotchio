@@ -1,0 +1,13 @@
+baseURL = "http://hackagotch.io/"
+languageCode = "en-us"
+title = "Hackagotchi"
+
+theme = "gotchi"
+
+[menu]
+  [[menu.main]]
+    identifier = "blog"
+    name = "Blog"
+    title = "Blog"
+    url = "/blog/"
+
