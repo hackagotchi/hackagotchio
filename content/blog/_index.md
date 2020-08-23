@@ -2,5 +2,4 @@
 title: "Hackagotchi Dev Blog"
 ---
 
-
-Test
+An archive of all the Saturday Summaries
