@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://hackagotch.io/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Hackagotchi"
 
 theme = "gotchi"
 
