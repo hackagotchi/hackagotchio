@@ -2,13 +2,15 @@
 title: "Hackagotchi!"
 ---
 
-# Overview
+# Hackagotchi
+
+## Overview
 With Hackagotchi, you can have a farm and cute adorable Orphei that earn you passive income in GP.
 
-# Goal
+## Goal
 Hackagotchi was built to revitalize the GP economy in [Hack Club](https://hackclub.com) but has grown into much more than that.
 
-# Land, Farming, and Resources
+## Land, Farming, and Resources
 When you hackstead, you get a tile of land. You can buy more tiles of land later
 after your hackstead has earned more XP. You plant things on your tiles of land
 which yield resources at regular intervals. These resources aren't GP, imagine
@@ -20,7 +22,7 @@ if they're planted on tiles next to plants of the same type, this encourages
 people to grow only one or two types of plants, meaning that they'll only get
 one or two types of resources regularly.
 
-# Fees and Hackagotchi
+## Fees and Hackagotchi
 In order to craft useful things you need multiple types of resources, so you
 have to buy and sell from other Hack Club members on the open market. You also
 aren't given any seeds to start with, so you have to buy some seeds off of the
@@ -29,7 +31,7 @@ for sale on the market, and there's also fees on hacksteading. All of this fee
 money is later "found" by Hackagotchi during events called "Harvests." The
 innocent Hackagotchi simply give that money to their owners.
 
-# Hackagotchi and Items
+## Hackagotchi and Items
 You can craft items that give you a chance of spawning different types of
 Hackagotchi. Hackagotchi give you more GP the happier they are. Hackagotchi can
 hold items which make them happier. For example, if two Hackagotchi on your
