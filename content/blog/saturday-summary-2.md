@@ -9,7 +9,7 @@ ogImage:
 emoji: '🎨'
 ---
 
-[toc]
+
 
 ## Introduction
 Hello Hacksteaders! Welcome to the first Saturday Summary of July! Oh, and if you haven't already congratulated yourself on completing another year of school, feel free to do so now! You're one step closer to graduating.

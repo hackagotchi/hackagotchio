@@ -1,13 +1,13 @@
 ---
 title: 'Saturday Summary #3'
 excerpt: "Wildcards, Owen, Poly, and more!"
-date: '2020-07-27T05:35:07.322Z'
+date: '2020-07-31T05:35:07.322Z'
 author: Owen Salter
 ogImage:
   url: 'http://source.unsplash.com/OgEAh3TcOFw/1000x1000'
 ---
 
-[toc]
+
 
 Welcome to this week's Saturday Summary! This week we're going to be talking
 about changes to our deployment process and some changes to our ongoing backend
