@@ -1,13 +1,14 @@
 {{ define "main" }}
       {{ .Content }}
 
-      <h1>Latest from the Blog!</h1>
+      <h1>Latest from the <a href="/blog/">Blog</a>!</h1>
       {{ range first 1 (where .Site.RegularPages "Section" "blog") }}
-      <h2>{{.Title}}</h2>
+      <a href="{{.Permalink}}"><h2>{{.Title}}</h2></a>
       <i>{{.Date.Format "January 2, 2006"}}
         by {{.Params.author}}</i>
       <br>
       <br>
       {{.Params.excerpt}}
       {{ end }}
+      <br>
 {{ end }}
