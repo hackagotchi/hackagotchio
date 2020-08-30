@@ -57,4 +57,4 @@ the [Hack Club Slack](https://hackclub.com/community) or join us on IRC!
 Happy Hacksteading!
 
 [^1]: Find Hackagotchi's open-source components at
-https://github.com/hackagotchi! You're always more than welcome to PR new code.
+[https://github.com/hackagotchi](https://github.com/hackagotchi)! You're always more than welcome to PR new code.
