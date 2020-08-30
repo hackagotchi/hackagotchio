@@ -1,7 +1,7 @@
 ---
 title: "Saturday Summary 4"
 date: 2020-08-29T17:34:08-04:00
-draft: true
+draft: false
 author: Owen Salter
 ---
 
@@ -33,7 +33,9 @@ Part of the new backend server is the ability to make new clients for more
 places than just Slack, including the web and iOS! The Wormhole gives us a lot
 more flexibility in what we can do with the clients we write. Nick is most
 looking forward to player movement and other related features, and Linus is
-looking forward to the native iOS app!
+looking forward to the native iOS app! Finally, Cedric is looking forward to
+turning Hackagotchi into more of an actual game, instead of being limited to a
+Slack bot.
 
 ## Question 3
 A core part of Hackagotchi is the community. It's quite hard to play the game
@@ -42,7 +44,9 @@ the dev team we want to see that community grow. Nick would love to see more
 people on our chat software (which you can find at
 [https://chat.hackagotch.io](https://chat.hackagotch.io)). Owen wants to see the
 community start to create their own tools and spaces both on and off of the game
-chat, and is willing to give those projects the support they need.
+chat, and is willing to give those projects the support they need. Cedric wants
+more people to play with, and especially wants more contributors to
+Hackagotchi![^1]
 
 ## Conclusion
 Well, that's it for this week's Saturday Summary! I'd like to get these out more
@@ -50,3 +54,6 @@ regularly. If you have any questions feel free to drop a note in #hackstead on
 the Hack Club Slack or join us on IRC!
 
 Happy Hacksteading!
+
+[^1]: Find Hackagotchi's open-source components at
+https://github.com/hackagotchi! You're always more than welcome to PR new code.
