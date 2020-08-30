@@ -50,8 +50,8 @@ Hackagotchi![^1]
 
 ## Conclusion
 Well, that's it for this week's Saturday Summary! I'd like to get these out more
-regularly. If you have any questions feel free to drop a note in #hackstead on
-the Hack Club Slack or join us on IRC!
+regularly. If you have any questions feel free to drop a note in [#hackstead](https://app.slack.com/client/T0266FRGM/C012J554P8T) on
+the [Hack Club Slack](https://hackclub.com/community) or join us on IRC!
 
 Happy Hacksteading!
 
