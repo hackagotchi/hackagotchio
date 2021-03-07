@@ -1,11 +1,5 @@
-# Heccagotchi
+# https://hackagotch.io
 
-View `/_posts` for posts, and `Hello World` for templates.
+This site contains the source code to build the website for the Hackagotchi project.
 
-# Scripts
-
-- Serving: `yarn run dev -p 3234`
-
-- Building: `yarn run build`
-
-- Testing: TODO
+Find blog posts in `content/blog`.
